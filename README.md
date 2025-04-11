@@ -20,7 +20,7 @@ Aplicación de escritorio en Java utilizando Swing y conexión a base de datos, 
 ## Estructura del proyecto
 
 ```
-ProtecyoCRUD/
+ProyectoCRUD/
 ├── src/
 │   └── test/
 │       └── java/
@@ -40,7 +40,7 @@ ProtecyoCRUD/
 
    ```bash
    git clone https://github.com/Amerikg/ProyectoCRUD.git
-   cd ProtecyoCRUD
+   cd ProyectoCRUD
    ```
 
 2. Compila el proyecto con Maven:
