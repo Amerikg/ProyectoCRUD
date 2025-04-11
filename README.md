@@ -1,5 +1,5 @@
 
-# ProtecyoCRUD
+# ProyectoCRUD
 
 Aplicación de escritorio en Java utilizando Swing y conexión a base de datos, que implementa operaciones CRUD para gestionar empleados.
 
